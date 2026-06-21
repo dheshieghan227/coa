@@ -46,3 +46,9 @@ All assembly programs are written in **x86 Intel Assembly** and target the **Irv
 
 ## 🖥️ System Performance Benchmarks (`/benchmarks/`)
 - Includes a comprehensive Geekbench benchmark report (`Dell_Inspiron_16_5625_Geekbench.pdf`) detailing processor, memory, cache hierarchy, and execution performance for a Dell Inspiron 16 5625 system powered by the **AMD Ryzen 5 5625U** processor.
+
+
+---
+
+## 💭 Course Reflection
+Studying assembly programming and ALU architecture in this course gave me a deep appreciation for hardware execution limits. Knowing how instructions and caches behave helps me write more hardware-friendly, low-level scripts.
